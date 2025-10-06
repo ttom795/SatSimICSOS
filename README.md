@@ -26,7 +26,7 @@ The visualiser provides an interactive, immersive view of global satellite const
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU GENERAL PUBLIC LICENSE Version 2](LICENSE).
 
 ## Acknowledgements
 
