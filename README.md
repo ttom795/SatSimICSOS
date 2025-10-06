@@ -21,7 +21,7 @@ The visualiser provides an interactive, immersive view of global satellite const
 
 ## Dependencies
 
-* None required — this is a pre-built standalone application.
+* None required because this is a pre-built standalone application.
 * *(Optional)* Internet connection if fetching or updating satellite TLE data manually.
 
 ## License
