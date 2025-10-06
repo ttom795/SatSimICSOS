@@ -5,7 +5,7 @@ This build provides a real-time 3D visualisation of Low Earth Orbit (LEO) satell
 ## Overview
 
 **SatSim** is a standalone application that renders the positions and trajectories of satellites in real time.
-It uses Two-Line Element (TLE) data from Celestrak and accurate SGP4 orbital models.
+It uses Two-Line Element (TLE) data from Celestrak and an accurate orbital model via usage of SGP4.
 
 The visualiser provides an interactive, immersive view of global satellite constellations and their motion across the Earth, useful for demonstrations, research, and verification of satellite network algorithms.
 
